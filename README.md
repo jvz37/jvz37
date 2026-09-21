@@ -2,6 +2,9 @@
 Research, Scientific Computing & Machine Learning.
 
 ##  📘 Book
+**Beginning Mathematica and Wolfram for Data Science — 2nd ed.** — Apress, 2024  
+Official source code: https://github.com/Apress/Beginning-Mathematica-and-Wolfram-for-Data-Science-2nd-ed
+
 **Beginning Mathematica and Wolfram for Data Science** — Apress, 2021  
 Official source code: https://github.com/Apress/beginning-mathematica-wolfram-data-science
 

@@ -1,16 +1,25 @@
-## Hi there 👋
+# JV
 
-<!--
-**jvz37/jvz37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research, Scientific Computing & Machine Learning.
 
-Here are some ideas to get you started:
+## Book
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Beginning Mathematica and Wolfram for Data Science** — Apress, 2021  
+Official source code: https://github.com/Apress/beginning-mathematica-wolfram-data-science
+
+## Open Source
+
+Contributions to PyTorch Tutorials:
+- PR #3885 — Modernize `polynomial_custom_function`
+- PR #3867 — Fixes #3855
+
+## Current interests
+
+- Inverse problems
+- Scientific computing
+- Machine learning
+- Geometric / information geometry
+
+## Links
+
+- https://jvz37.github.io/

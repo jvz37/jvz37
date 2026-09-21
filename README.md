@@ -1,9 +1,7 @@
 # JV
-
 Research, Scientific Computing & Machine Learning.
 
-## Book
-
+##  📘 Book
 **Beginning Mathematica and Wolfram for Data Science** — Apress, 2021  
 Official source code: https://github.com/Apress/beginning-mathematica-wolfram-data-science
 
